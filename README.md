@@ -1,5 +1,9 @@
-#### Hi! Welcome to my Alter ego.
-#### Amorfati.
+<h1 align="center">Hi! Welcome to my Alterego.</h1>
+
+<p align="center">
+<i>Amor Fati</i><br>
+Embrace everything that happens in life.
+</p>
 
 ## 📊 GitHub Stats
 
