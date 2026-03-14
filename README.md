@@ -1,4 +1,7 @@
-## Hi there 👋
+#### Hi! Welcome to my Alter ego.
+#### Amorfati.
+
+![Rayhan Putra](image/unduhan%20(1).jpg)
 
 <!--
 **reinptr/reinptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
