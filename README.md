@@ -1,6 +1,22 @@
 #### Hi! Welcome to my Alter ego.
 #### Amorfati.
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reinptr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinptr&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=reinptr&theme=tokyonight)
+
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Rayhan Putra](image/unduhan%20(1).jpg)
 
 <!--
