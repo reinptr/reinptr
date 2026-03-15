@@ -24,10 +24,6 @@ Embrace everything that happens in life.
 ![Geophysics](https://img.shields.io/badge/Geophysics-Earth%20Science-blue?style=for-the-badge)
 ![Geophysical Modeling](https://img.shields.io/badge/Geophysical-Modeling-green?style=for-the-badge)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/reinptr/reinptr/blob/output/github-contribution-grid-snake.svg)
-
 ![Rayhan Putra](image/unduhan%20(1).jpg)
 
 <!--
