@@ -18,8 +18,6 @@ Embrace everything that happens in life.
 
 ## 🛠 Skills
 
-<p align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,8 +25,6 @@ Embrace everything that happens in life.
 
 ![Geophysics](https://img.shields.io/badge/Geophysics-Earth%20Science-blue?style=for-the-badge)
 ![Geophysical Modeling](https://img.shields.io/badge/Geophysical-Modeling-green?style=for-the-badge)
-
-</p>
 
 ## 🐍 Contribution Snake
 
