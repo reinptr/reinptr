@@ -2,7 +2,7 @@
 
 <p align="center">
 <i>Amor Fati</i><br>
-Embrace everything that happens in life.
+Embrace everything that happens in life, you?.
 </p>
 
 ## 📊 GitHub Stats
